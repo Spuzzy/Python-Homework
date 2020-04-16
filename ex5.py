@@ -13,7 +13,7 @@ print(f"He's {inchesheight} inches or {cmheight} cm tall.")
 print(f"He's {poundsweight} pounds or {round(kgweight,2)} kg heavy.")
 print(f"Actually that's not too heavy.")
 print(f"He's got {eyes} eyes and {hair} hair.")
-print(f"His teeth are usuall {teeth} depending on the coffee.")
+print(f"His teeth are usually {teeth} depending on the coffee.")
 
 # this line is tricky, try to get it exactly right
 total = age + inchesheight + poundsweight
